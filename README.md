@@ -54,6 +54,8 @@ Create your feature branch off of `develop`. There is no enforced naming convent
 git checkout -b your_feature_branch
 ```
 
+If just updating Officers all you need to do is modifiy the `index.html` file without entering any folders and modify which images are in the `assets/img` folder
+
 Build (and serve up) the website locally and navigate to http://localhost:4000/ to view your changes before you push them:
 ```
 jekyll serve
